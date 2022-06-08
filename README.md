@@ -1,0 +1,2 @@
+# tindog-bootstrap
+boot strap 
