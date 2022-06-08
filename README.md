@@ -1,2 +1,1 @@
-# tindog-bootstrap
-boot strap 
+TinDog Starting Files
